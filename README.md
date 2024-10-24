@@ -1,6 +1,6 @@
 # KIIT Help Bot
 
-![KIIT Help Bot Logo](assets/freepik__candid-image-photography-natural-textures-highly-r__57633.jpeg)
+<img src="assets/freepik__candid-image-photography-natural-textures-highly-r__57633.jpeg" alt="KIIT Help Bot Logo" width="300"/>
 
 ## Overview
 KIIT Help Bot is a Telegram bot designed specifically for students, harnessing the power of machine learning algorithms and APIs to streamline day-to-day tasks. As a fellow student, I understand the challenges we face, from managing class schedules to exploring career opportunities. This bot aims to alleviate these burdens, making student life easier, more productive, and enjoyable.
