@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
-
+#this will predict the third grade if you provide 2 grades studytime no of fails no of absences
 
 def getGrade(marks):
 

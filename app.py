@@ -166,7 +166,7 @@ def main():
         result = getjoke.getjokes()
         await update.message.reply_text(result)
 
-    app = ApplicationBuilder().token("").build()
+    app = ApplicationBuilder().token("6728052993:AAHVUjT3LmCnjhGSt6OuaTAvJDn3CcRsrtY").build()
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("help", help))
     app.add_handler(CommandHandler("sgpa", sgpa))

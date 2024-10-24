@@ -9,7 +9,7 @@ def jobSearch(title):
                    "employmentTypes": "fulltime;parttime;intern;contractor", "index": "0"}
 
     headers = {
-        "X-RapidAPI-Key": "",
+        "X-RapidAPI-Key": "42136f6aecmshbb8c6fe8c0c5f8dp12382ajsn0c5bdf7a0701",
         "X-RapidAPI-Host": "jobs-api14.p.rapidapi.com"
     }
 

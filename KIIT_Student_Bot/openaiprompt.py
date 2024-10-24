@@ -1,7 +1,7 @@
 import openai
 
 def generate_text(prompt):
-    openai.api_key = ""
+    openai.api_key = "API KEY"
     response = openai.Completion.create(
         engine="gpt-3.5-turbo-instruct",  # Updated engine
         prompt=prompt,
